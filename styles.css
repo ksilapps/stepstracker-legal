@@ -95,16 +95,17 @@ a:focus-visible,summary:focus-visible {
 .brand-mark {
   width:40px;
   height:40px;
-  display:grid;
-  place-items:center;
-  background:var(--blue);
+  display:block;
   border-radius:13px;
-  color:white
+  object-fit:cover
 }
 
-.brand-mark svg {
-  width:24px;
-  height:24px
+.hero-icon {
+  display:block;
+  width:min(100%,320px);
+  height:auto;
+  border-radius:28px;
+  margin:0 auto 28px
 }
 
 .nav {

@@ -7,6 +7,7 @@ A small, dependency-free website for the iPhone app. GitHub Pages serves the HTM
 - `terms-of-use.html`: app usage and measurement limitations
 - `support.html`: common questions using native HTML disclosures
 - `styles.css`: responsive layout, keyboard focus, reduced motion, and print styles
+- `steps-icon.png`: supplied app artwork used in the header, home page, and browser icon
 
 Keep the existing HTML filenames: the app links directly to them from Settings.
 
@@ -14,7 +15,7 @@ Keep the existing HTML filenames: the app links directly to them from Settings.
 
 Content was checked against `../steps_tracker` on October 5, 2026, including app permissions, Health access, local storage, reset behavior, and Settings links. Update the privacy policy when data practices change, and revise the effective/update dates when appropriate.
 
-Before publishing, add a verified developer support email to Support and a contact link in the Privacy Policy and Terms. No email was present in the app or this repository; do not invent one. This is the remaining content gap.
+The support contact is `ksil.apps@gmail.com`, as supplied by the developer.
 
 Hosting disclosure references GitHub Pages documentation: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection
 
